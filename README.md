@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">Merhaba 👋, ben Abdulkadir Eryavuz</h1>
+<h3 align="center">Bilgisayar Programcılığı 1. sınıf öğrencisi olarak yazılım geliştirme alanında ayrıcalıklı sürekli odaklanıyorum. Eğitim sürecinde C# başta olmak üzere Python ve C++ dillerinde eğitimler alarak sertifika kazandım. Nesnenin programlamalı, algoritmik düşünme ve problem parçalarının sağlam bir temel geliştirilmesine önem verilmesi. Aktif olarak çalışmıyor olmamı bir avantaj olarak görüyor, bu zamanda yeni teknolojik gelişmeler, projeler geliştirme ve yazılım geliştirmemi ileri düzeyde ilerlemek için yoğunlaştırıyorum. Özellikle gerçek hayat problemlerine çözüm üretilmesini, ölçeklenebilir ve sürdürülebilir projelerin geliştirilmesini hedefliyorum. Disiplinli çalışma anlayışı, son derece açık üretim ve yazılıma dayalı yüksek motivasyon sayesinde, hem bireysel hem de ekip çalışmalarında katma değer sağlayabilecek tesislere sahiptir. Uzun yazılım sektöründe uzmanlaşarak, çözümlerde yer almak ve sürekli kendini geliştiren bir yazılımcı olmak temel hedefimdir.</h3>
 
-<!--
-**KadirEryvz/KadirEryvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Benimle iletişime geçin:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abdulkadir eryavuz" target="blank"><img align="center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "abdulkadir eryavuz" height = "30" genişlik = "40" /></a>
+<a href = "https://fb.com/kadir eryavuz" target = "blank"><img hizalama = "merkez" <a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kadir eryavuz" height="30" width="40" /></a>
+<a href="https://instagram.com/_kadir.eryvz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kadir.eryvz_" height="30" width="40" /></a> </p> <
+h3
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+align="left">Diller ve Araçlar:</h3> <p align="
+left"> <a href="https://www.w3schools.com/cpp/" <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.<p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
